@@ -1,0 +1,21 @@
+@media only srceen and (max-width:600px){
+ *{
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    background-image: url(bt.jpg) !important;
+ }
+    .container{
+    /* max-width: fit-content !important; */
+    max-height: fit-content !important;
+    padding-left: 2% !important;
+    padding-right: 2% !important;
+    text-overflow: clip !important;
+    box-sizing: border-box !important;
+    background: fit-content !important;
+    width: 70% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    }
+ }   

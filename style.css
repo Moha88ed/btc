@@ -1,0 +1,125 @@
+.container{
+    background: url(bt.jpg) no-repeat;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    margin: auto;
+    margin-top: -40px;
+}
+header li{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(247, 247, 247);
+    margin-right: 15px;
+    margin-top: 50px;
+}
+header a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.your{
+    color: rgb(248, 248, 248);
+   margin-top: -300px;
+margin-left:650px;
+margin-top: 5em;
+}
+.brand{
+    background-color:rgb(209, 104, 6); 
+    color: white;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    width: 15em;
+    cursor: pointer;
+    font-family:  Tahoma;
+    font-weight: bold;
+    margin-left: 53em;
+   margin-top: 2em;
+   text-decoration: none;
+ }
+ .jef{
+   margin-top: -520px;
+   margin-left: 20.5em;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: xx-large;
+  color: white;
+ }
+ .bad{
+    background: url(bt\ -\ Copy.jpg) no-repeat;
+    height: 700px;
+    background-size: contain;
+    background-position: center;
+    overflow: hidden;
+    margin: auto;
+    padding-top: -50px;
+    margin-top: -40px;
+ }
+ .go{
+    margin-top: -520px;
+    margin-left: 22em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: xx-large;
+   color: rgb(209, 104, 6);
+ }
+ .do{
+    margin-left: 22em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: xx-large;
+   color: rgb(255, 255, 255);
+   margin-top: 12px;
+ }
+ .brad{
+    background-color:rgb(209, 104, 6); 
+    color: white;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    width: 15em;
+    cursor: pointer;
+    font-family:  Tahoma;
+    font-weight: bold;
+    margin-left: 53em;
+   margin-top: 1em;
+ }
+ .mon{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    margin-right: 5.5em;
+    font-size: 50px;
+    margin-top: -20px;
+    float: right;
+ }
+ .contact{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:rgb(252, 252, 252);
+  margin-top: -30em;
+  float: right;
+  margin-right: 10em;
+}
+.gog{
+  margin-top: -470px;
+  margin-left: 20em;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: xx-large;
+   color: white;
+}
+@media(max-width:768px){
+   header li,
+   header a,
+   .your,
+   .brand,
+   .jef,
+   .bad,
+   .go,
+   .do,
+   .brad,
+   .mon,
+   .contact,
+   .gog,
+   }
